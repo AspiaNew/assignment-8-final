@@ -1,0 +1,45 @@
+[
+   
+    {
+        "id":1,
+        "name":"Arsenal",
+        "image":"/public/images/arsenal.png",
+        "info":"Arsenal was the first club from the South of England to join The Football League, in 1893, and they reached the First Division in 1904. Relegated only once, in 1913, they continue the longest streak in the top division, and have won the second-most top-flight matches in English football history",
+        "time":5
+    },
+    {
+        "id":2,
+        "name":"Bayern munchen",
+        "image":"/public/images/bayern.png",
+        "info":"Bayern Munich, in full Fussball-Club Bayern München, also called FC Bayern Munich, German professional football (soccer) club based in Munich. Bayern Munich was founded in 1900 and has become Germany's most famous and successful football club.",
+        "time":10
+    },
+    {
+        "id":3,
+        "name":"Liverpool FC",
+        "image":"/public/images/liverpool.png",
+        "info":"Liverpool Football Club is a professional football club in Liverpool, England, which competes in the Premier League, the top tier of English football. The club has won 5 European Cups, 3 UEFA Cups, 3 UEFA Super Cups, 18 League titles, 7 FA Cups, 8 League Cups, and 15 FA Community Shields.",
+        "time":20
+    },
+    {
+        "id":4,
+        "name":"Real Madrid",
+        "image":"/public/images/madrid.png",
+        "info":"Real Madrid is one of the most widely supported teams internationally. The club was estimated to be worth $5.1 billion in 2022, making it the world's most valuable football team.",
+        "time":30
+    },
+    {
+        "id":5,
+        "name":"Manchester City",
+        "image":"/public/images/manchester.png",
+        "info":"Manchester City is an English Premier League club whose roots began in East Manchester. From its first incarnation as St Mark's West Gorton in 1880, the Club became Manchester City FC in 1894.",
+        "time":40
+    },
+    {
+        "id":6,
+        "name":"SSC Napoli",
+        "image":"/public/images/napoli.png",
+        "info":"Napoli traces its roots to the first relevant Neapolitan club, founded as Naples Foot-Ball & Cricket Club in 1905 by English sailor William Poths and his associate Hector M. Bayon. Neapolitans such as Conforti, Catterina and Amedeo Salsi were also involved; Salsi was named the club's first president.",
+        "time":50
+    }
+]
