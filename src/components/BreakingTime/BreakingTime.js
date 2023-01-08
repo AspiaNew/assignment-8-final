@@ -42,7 +42,7 @@ Add a Break
 </label>
 </div>
             </div>
-            <Time time={time} pickedTime={pickedTime}></Time>
+            <Beat time={time} pickedTime={pickedTime}></Beat>
         </div>
     )
 }
