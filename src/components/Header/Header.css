@@ -1,0 +1,12 @@
+.header{
+background-color: lightskyblue;
+margin-bottom: 2px;
+padding: 4px;
+display: flex;
+align-items: center;
+}
+.heading{
+font-size: 2px;
+margin: auto;
+color: brown;
+}

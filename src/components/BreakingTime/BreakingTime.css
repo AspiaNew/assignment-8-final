@@ -1,0 +1,14 @@
+.select-item{
+    display: none;
+}
+input[type="radio"]+label{
+    border-radius: 50%;
+    padding: 12px;
+    border: 1px solid orangered;
+}
+input[type="radio"]:checked+label{
+    border-radius: 50%;
+    background-color: orangered;
+    border: 1px solid orangered;
+    color: rgb(255,255,255);
+}
