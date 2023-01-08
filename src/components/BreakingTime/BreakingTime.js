@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import"./BreakingTime.css"
+import Beat from "../Beat/Beat";
 const BreakingTime=({time})=>{
     const[pickedTime,setPickedTime]=useState(0)
     const betterTime=(breakTime)=>{
@@ -41,7 +42,7 @@ Add a Break
 </label>
 </div>
             </div>
-            {/* <Time time={time} pickedTime={pickedTime}></Time> */}
+            <Time time={time} pickedTime={pickedTime}></Time>
         </div>
     )
 }
