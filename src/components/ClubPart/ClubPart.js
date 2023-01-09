@@ -10,7 +10,7 @@ useEffect(()=>{
 return(
     <div className="rows">
 {
-teams.map(team=> <Club team={team} add={props.add} key={team.id}></Club> )
+teams.map(team=> <Club team={team} addList={props.addList} key={team.id}></Club> )
 }
     </div>
 )

@@ -10,7 +10,7 @@ const Club=(props)=>{
     <h3 className="card-title">{name}</h3>
 <p className="card-text text-primary">{info}</p>
 <p className="card-text">Time:{time}s</p>
-<button onClick={()=>props.add(time)} className='btn btn-primary mx-0 fw-bolder'>Add To List</button>
+<button onClick={()=>props.addList(time)} className='btn btn-primary mx-0 fw-bolder'>Add To List</button>
 </div>
             </div>
 
